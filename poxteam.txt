@@ -1,0 +1,14 @@
+# Identify: ODc5MTU2MTAzNCw0LjUuNSxhbGwsc2hlbGwsMSxwb3h0ZWFtXyx1dGY4
+# <?php exit();?>
+# IBOS Multi-Volume Data Dump Vol.2
+# Version: IBOS 4.5.5
+# Time: 2019-07-16 16:45:30
+# Type: all
+# Table Prefix: poxteam_
+#
+# IBOS Home: http://www.ibos.com.cn
+# Please visit our website for newest infomation about IBOS
+# --------------------------------------------------------
+
+
+SET NAMES 'utf8';
