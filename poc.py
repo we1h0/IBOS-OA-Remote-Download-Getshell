@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- 
-# Vulnerability: IBOS数据恢复工具任意文件上传
+# Vulnerability: IBOS数据恢复工具远程下载Getshell漏洞
 # Version <= 4.5.5
 # Author : Weiho@PoxTeam
 # Data : 2019-07-17
