@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- 
-# Vulnerability: IBOS 4.x /data/restore.php数据恢复工具远程下载Getshell漏洞
+# Vulnerability: IBOS OA 4.x /data/restore.php数据恢复工具远程下载Getshell漏洞
 # Version <= 4.5.5
 # Author : Weiho@PoxTeam
 # Data : 2019-07-17
